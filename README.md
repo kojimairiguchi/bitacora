@@ -5,22 +5,27 @@ Aplicativo para portal de operadores en Consorcio Nacional de Seguros, se actual
 
 version anterior [Portal Bitacora V1](https://github.com/kojimairiguchi/portalBitacora)
 ## Tabla de Contenidos
+
 + [Personal Involucrado](#personal-involucrado)
-+ [Equipo](#Equipo)
-+ [Estructura](#Estructura)
-  + [Interna](#Interna)
-  + [Externa / Publica](#Externa)
-+ [Packages](#Packages)
-+ [Notas](#Notas)
++ [Equipo](#equipo)
++ [Estructura](#estructura)
+  + [Interna](#interna)
+  + [Externa / Publica](#externa)
++ [Packages](#packages)
++ [Notas](#notas)
 
 ### Personal Involucrado
 como beta test van a estar operadores de Consorcio Nacional de Seguros, supervisados por Nicolas Martinez
 
 en el desarrollo van a estar [Nicolas Martinez](https://github.com/kojimairiguchi) ,  consultado por Salvador Maureira Briones
 
+
+[volver](#tabla-de-contenidos)
 ### Equipo
 El equipo que se utiliza para esta es una maquina virtual con CentOS 6.5
 
+
+[volver](#tabla-de-contenidos)
 ### Estructura
 #### Interna
 la Estructura del sitio internamente va a ser así
@@ -53,8 +58,12 @@ la Estructura del sitio internamente va a ser así
 
 mas información disponible en la ruta `lib/routes.js`
 
+
+[volver](#tabla-de-contenidos)
 #### Publica
 
+
+[volver](#tabla-de-contenidos)
 ### Packages
 
 los packages utlizados en esta version son:
@@ -104,6 +113,10 @@ aslagle:reactive-table
 se preeve priscender de mongoDB en versiones futuras
 
 
+[volver](#tabla-de-contenidos)
 ### notas
 - se van a hacen las pruebas usando los perfiles de usuario ``test``, ``test@test.cl``  y password ``1234``
 - la base de datos va a estar pre-poblada y disponible en `sql/base.sql`
+
+
+[volver](#tabla-de-contenidos)
