@@ -5,7 +5,7 @@ Aplicativo para portal de operadores en Consorcio Nacional de Seguros, se actual
 
 version anterior [Portal Bitacora V1](https://github.com/kojimairiguchi/portalBitacora)
 ## Tabla de Contenidos
-+ [Personal Involucrado](#Peronal Involucrado)
++ [Personal Involucrado](#personal-involucrado)
 + [Equipo](#Equipo)
 + [Estructura](#Estructura)
   + [Interna](#Interna)
